@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Synergy Hotel Management Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+
+## Description:
+A full-stack application for hotel management. Includes the ability to register, make reservations, view reservations, and request accommodations as a user.  
+
+Also includes management features for employees, with support for a variety of roles. Managers can approve/deny reservations, add rooms to the system, and add new employees to the system.  
+
+Features a fully-integrated calendar API for to improve the user experience when viewing their reservationn. Additionally, makes use of the openweathermap API for getting the current weather based on a user's location. 
+
+## API Details:
+The calendar API used can be found at: https://fullcalendar.io/  
+
+The weather API can be found at: https://openweathermap.org/api
+
+## Backend:
+The backend for our application can be found here: https://github.com/johcrean/Synergy_Backend_P2
 
 ## Available Scripts
 
@@ -39,32 +54,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
